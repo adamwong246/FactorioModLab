@@ -1,2 +1,3 @@
 # FactorioModLab
-my lab for modding
+
+My lab for modding Factorio. 
