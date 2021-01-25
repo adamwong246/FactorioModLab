@@ -1,3 +1,6 @@
-VERSION=$(cat $1/info.json | jq -r '.version')
+VERSION=$(cat ./mods/$1/info.json | jq -r '.version')
 echo "making project: $1 v$VERSION"
-zip "$1_$VERSION.zip" $1/*
+
+cd mods
+zip "$1_$VERSION.zip" ./$1/*
+mv "$1_$VERSION.zip" ..

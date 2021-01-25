@@ -1,9 +1,9 @@
-[submodule "mods/AdamsMod"]
-	path = mods/AdamsMod
+[submodule "mods/adams_mod"]
+	path = mods/adams_mod
 	url = https://github.com/adamwong246/AdamsMod.git
 [submodule "mods/Desire-Paths"]
 	path = mods/Desire-Paths
 	url = https://github.com/adamwong246/Desire-Paths.git
-[submodule "mods/ShortReach"]
-	path = mods/ShortReach
+[submodule "mods/short_reach"]
+	path = mods/short_reach
 	url = https://github.com/adamwong246/ShortReach.git
