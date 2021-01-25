@@ -1,0 +1,3 @@
+[submodule "mods/AdamsMod"]
+	path = mods/AdamsMod
+	url = https://github.com/adamwong246/AdamsMod.git
