@@ -7,3 +7,12 @@
 [submodule "mods/short_reach"]
 	path = mods/short_reach
 	url = https://github.com/adamwong246/ShortReach.git
+[submodule "mods/chernobyl"]
+	path = mods/chernobyl
+	url = https://github.com/adamwong246/chernobyl.git
+[submodule "mods/no_free_lunch"]
+	path = mods/no_free_lunch
+	url = https://github.com/adamwong246/no_free_lunch.git
+[submodule "mods/toxic_waste"]
+	path = mods/toxic_waste
+	url = https://github.com/adamwong246/toxic_waste.git
