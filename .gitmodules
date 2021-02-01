@@ -16,3 +16,6 @@
 [submodule "mods/toxic_waste"]
 	path = mods/toxic_waste
 	url = https://github.com/adamwong246/toxic_waste.git
+[submodule "mods/science_packs_go_bad"]
+	path = mods/science_packs_go_bad
+	url = https://github.com/adamwong246/science_packs_go_bad.git
