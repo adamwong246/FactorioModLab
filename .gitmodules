@@ -19,3 +19,6 @@
 [submodule "mods/science_packs_go_bad"]
 	path = mods/science_packs_go_bad
 	url = https://github.com/adamwong246/science_packs_go_bad.git
+[submodule "mods/power_ranger"]
+	path = mods/power_ranger
+	url = https://github.com/adamwong246/power_ranger.git
