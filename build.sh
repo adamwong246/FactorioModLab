@@ -8,7 +8,7 @@ echo "luajit-ing..."
 while read p; do
   # Run luajit to check the files for easy syntax errors
   find ./mods/$1/$p -name "*.lua"|while read fname; do
-    luajit -bl $fname > /dev/null && echo "$fname ✅"
+    /usr/local/bin/luajit-2.1.0-beta3 -bl $fname > /dev/null && echo "$fname ✅"
 
   done
 

@@ -1,8 +1,8 @@
 [submodule "mods/adams_mod"]
 	path = mods/adams_mod
 	url = https://github.com/adamwong246/AdamsMod.git
-[submodule "mods/Desire-Paths"]
-	path = mods/Desire-Paths
+[submodule "mods/desire_paths"]
+	path = mods/desire_paths
 	url = https://github.com/adamwong246/Desire-Paths.git
 [submodule "mods/short_reach"]
 	path = mods/short_reach
@@ -13,12 +13,12 @@
 [submodule "mods/no_free_lunch"]
 	path = mods/no_free_lunch
 	url = https://github.com/adamwong246/no_free_lunch.git
-[submodule "mods/toxic_waste"]
-	path = mods/toxic_waste
-	url = https://github.com/adamwong246/toxic_waste.git
 [submodule "mods/science_packs_go_bad"]
 	path = mods/science_packs_go_bad
 	url = https://github.com/adamwong246/science_packs_go_bad.git
 [submodule "mods/power_ranger"]
 	path = mods/power_ranger
 	url = https://github.com/adamwong246/power_ranger.git
+[submodule "mods/things_fall_apart"]
+	path = mods/things_fall_apart
+	url = git@github.com:adamwong246/things_fall_apart.git
