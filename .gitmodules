@@ -12,7 +12,7 @@
 	url = https://github.com/adamwong246/chernobyl.git
 [submodule "mods/no_free_lunch"]
 	path = mods/no_free_lunch
-	url = https://github.com/adamwong246/no_free_lunch.git
+	url = https://github.com/adamwong246/no_free_lunch.gitto
 [submodule "mods/science_packs_go_bad"]
 	path = mods/science_packs_go_bad
 	url = https://github.com/adamwong246/science_packs_go_bad.git
@@ -22,3 +22,9 @@
 [submodule "mods/things_fall_apart"]
 	path = mods/things_fall_apart
 	url = git@github.com:adamwong246/things_fall_apart.git
+[submodule "mods/toxic_waste"]
+	path = mods/toxic_waste
+	url = https://github.com/adamwong246/toxic_waste.git
+[submodule "mods/better_booms"]
+	path = mods/better_booms
+	url = https://github.com/adamwong246/better_booms.git
