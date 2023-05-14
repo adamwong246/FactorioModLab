@@ -1,0 +1,14 @@
+{
+  "name": "hard_science",
+  "version": "0.0.2",
+  "title": "Hard Science",
+  "description": "Science is hard.",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 1.1.21",
+    "recursive-science >= 2020.11.29"
+  ],
+  "author": "adamwong246",
+  "contact": "adamwong246@gmail.com",
+  "homepage": "https://github.com/adamwong246"
+}

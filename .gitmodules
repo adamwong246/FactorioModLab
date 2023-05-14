@@ -28,3 +28,15 @@
 [submodule "mods/better_booms"]
 	path = mods/better_booms
 	url = https://github.com/adamwong246/better_booms.git
+[submodule "mods/PowerOverload"]
+	path = mods/PowerOverload
+	url = git@github.com:adamwong246/PowerOverload.git
+[submodule "mods/AbandonedRuins-Krastorio2"]
+	path = mods/AbandonedRuins-Krastorio2
+	url = git@github.com:Bilka2/AbandonedRuins-Krastorio2.git
+[submodule "vonNeuman"]
+	path = vonNeuman
+	url = git@github.com:abaines/Von-Neumann.git
+[submodule "mods/vonNeuman"]
+	path = mods/vonNeuman
+	url = git@github.com:abaines/Von-Neumann.git

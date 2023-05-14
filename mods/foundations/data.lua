@@ -1,0 +1,3 @@
+-- local assMachine2 = table.deepcopy(data.raw["assembling-machine"]["assembling-machine-2"])
+-- assMachine2.collision_mask = {"item-layer", "object-layer", "player-layer", "water-tile", "floor-layer"}
+-- data:extend{assMachine2}

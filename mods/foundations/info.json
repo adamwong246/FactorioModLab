@@ -1,0 +1,13 @@
+{
+  "name": "foundations",
+  "version": "0.0.1",
+  "title": "Foundations",
+  "description": "Higher level machines must be built on a stone or cement floor",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 1.1.21"
+  ],
+  "author": "adamwong246",
+  "contact": "adamwong246@gmail.com",
+  "homepage": ""
+}

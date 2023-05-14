@@ -1,0 +1,13 @@
+{
+  "name": "prospector",
+  "version": "0.0.1",
+  "title": "Prospector",
+  "description": "This ore-ible mod overhauls ores, radars and mining drills. Ore patches no longer appears on your map, and most can't be seen from the surface of Nauvis. Instead you must infer their location by other means. Mining drills must be built on location but you can build them anywhere because the entire map is covered in a new ore, 'Earth'. Also adds Silver-Ore and Gold-Ore, which are like Copper-Ore but better. highly experimental! ",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 1.1.21"
+  ],
+  "author": "adamwong246",
+  "contact": "adamwong246@gmail.com",
+  "homepage": ""
+}
