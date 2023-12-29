@@ -138,9 +138,11 @@ for _, resource in pairs(data.raw.resource) do
     resource.map_grid = false;
     resource.resource_patch_search_radius = false
     resource.selectable_in_game = false;
+    -- resource.selection_box = {{0, 0}, {0, 0}}
+    -- resource.minable = nil
 
     local oreSheet = resource.stages.sheet
-    resource.map_color = boringColor;
+    -- resource.map_color = boringColor;
 
     if (resource.name == "earth") then
         resource.map_color = {0, 0, 0, 0}; -- invisible

@@ -34,9 +34,6 @@
 [submodule "mods/AbandonedRuins-Krastorio2"]
 	path = mods/AbandonedRuins-Krastorio2
 	url = git@github.com:Bilka2/AbandonedRuins-Krastorio2.git
-[submodule "vonNeuman"]
-	path = vonNeuman
-	url = git@github.com:abaines/Von-Neumann.git
 [submodule "mods/vonNeuman"]
 	path = mods/vonNeuman
 	url = git@github.com:abaines/Von-Neumann.git
